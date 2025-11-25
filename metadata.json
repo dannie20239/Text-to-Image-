@@ -1,0 +1,5 @@
+{
+  "name": "Final Text to Image App",
+  "description": "A powerful text-to-image generation application using Google's Gemini 2.5 Flash Image model. Create stunning visuals from text prompts with customizable aspect ratios.",
+  "requestFramePermissions": []
+}
